@@ -3,6 +3,9 @@
 **Goal:** To implement and compare Chinese–English machine translation using RNN and Transformer architectures.
 **Scope:** Development of NMT models from scratch (RNN, Transformer), fine-tuning pretrained model (mT5), and conducting comparative architectural analysis.
 
+**Model Checkpoints:** Download checkpoints from HuggingFace, and then set up the file path to use the commands shown below.
+[maxwei-wzj/Chinese-to-English-NMT](https://huggingface.co/maxwei-wzj/Chinese-to-English-NMT/)
+
 **Inference Usage:**
 RNN:
 ```bash
